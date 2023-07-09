@@ -4,6 +4,9 @@
 
 This project aims to securely manage, streamline, and analyse the structured and semi-structured YouTube video data based on the video categories and trending metrics.
 
+## Architecture Diagram
+<img src="architecture.jpeg">
+
 ## Project Goals
 1. Data Ingestion — Build a mechanism to ingest data from different sources
 2. ETL System — We are getting data in raw format, transforming this data into the proper format
@@ -25,7 +28,6 @@ This Kaggle dataset contains statistics (CSV files) on popular YouTube videos ov
 
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 
-## Architecture Diagram
-<img src="architecture.jpeg">
+
 
 
