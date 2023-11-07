@@ -23,6 +23,8 @@ This project aims to securely manage, streamline, and analyse the structured and
 5. AWS Lambda: Lambda is a computing service that allows programmers to run code without creating or managing servers.
 6. AWS Athena: Athena is an interactive query service for S3 in which there is no need to load data it stays in S3.
 
+![Screenshot 2023-11-07 at 10 03 14 AM](https://github.com/Syedhashirayub/Yodalysis/assets/100124377/358a4023-2674-4342-8459-7619bd205e08)
+
 ## Dataset Used
 This Kaggle dataset contains statistics (CSV files) on popular YouTube videos over the covers daily. There are up to 200 trending videos published every day for many locations. The data for each region is in its own file. Video title, channel title, publication time, tags, views, likes and dislikes, description, and comment count are among the items included in the data. A category_id field, which differs by area, is also included in the JSON file linked to the region.
 
